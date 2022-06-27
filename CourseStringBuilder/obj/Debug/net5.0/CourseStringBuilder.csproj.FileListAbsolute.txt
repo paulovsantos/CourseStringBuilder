@@ -3,3 +3,14 @@ C:\workspace\UdemyC#\Capitulo 9 - Enumerações e Comparações\CourseStringBuil
 C:\workspace\UdemyC#\Capitulo 9 - Enumerações e Comparações\CourseStringBuilder\CourseStringBuilder\obj\Debug\net5.0\CourseStringBuilder.AssemblyInfoInputs.cache
 C:\workspace\UdemyC#\Capitulo 9 - Enumerações e Comparações\CourseStringBuilder\CourseStringBuilder\obj\Debug\net5.0\CourseStringBuilder.AssemblyInfo.cs
 C:\workspace\UdemyC#\Capitulo 9 - Enumerações e Comparações\CourseStringBuilder\CourseStringBuilder\obj\Debug\net5.0\CourseStringBuilder.csproj.CoreCompileInputs.cache
+C:\workspace\UdemyC#\Capitulo 9 - Enumerações e Comparações\CourseStringBuilder\CourseStringBuilder\bin\Debug\net5.0\CourseStringBuilder.exe
+C:\workspace\UdemyC#\Capitulo 9 - Enumerações e Comparações\CourseStringBuilder\CourseStringBuilder\bin\Debug\net5.0\CourseStringBuilder.deps.json
+C:\workspace\UdemyC#\Capitulo 9 - Enumerações e Comparações\CourseStringBuilder\CourseStringBuilder\bin\Debug\net5.0\CourseStringBuilder.runtimeconfig.json
+C:\workspace\UdemyC#\Capitulo 9 - Enumerações e Comparações\CourseStringBuilder\CourseStringBuilder\bin\Debug\net5.0\CourseStringBuilder.runtimeconfig.dev.json
+C:\workspace\UdemyC#\Capitulo 9 - Enumerações e Comparações\CourseStringBuilder\CourseStringBuilder\bin\Debug\net5.0\CourseStringBuilder.dll
+C:\workspace\UdemyC#\Capitulo 9 - Enumerações e Comparações\CourseStringBuilder\CourseStringBuilder\bin\Debug\net5.0\ref\CourseStringBuilder.dll
+C:\workspace\UdemyC#\Capitulo 9 - Enumerações e Comparações\CourseStringBuilder\CourseStringBuilder\bin\Debug\net5.0\CourseStringBuilder.pdb
+C:\workspace\UdemyC#\Capitulo 9 - Enumerações e Comparações\CourseStringBuilder\CourseStringBuilder\obj\Debug\net5.0\CourseStringBuilder.dll
+C:\workspace\UdemyC#\Capitulo 9 - Enumerações e Comparações\CourseStringBuilder\CourseStringBuilder\obj\Debug\net5.0\ref\CourseStringBuilder.dll
+C:\workspace\UdemyC#\Capitulo 9 - Enumerações e Comparações\CourseStringBuilder\CourseStringBuilder\obj\Debug\net5.0\CourseStringBuilder.pdb
+C:\workspace\UdemyC#\Capitulo 9 - Enumerações e Comparações\CourseStringBuilder\CourseStringBuilder\obj\Debug\net5.0\CourseStringBuilder.genruntimeconfig.cache

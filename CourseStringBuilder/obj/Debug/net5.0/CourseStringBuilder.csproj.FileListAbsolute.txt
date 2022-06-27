@@ -1,0 +1,5 @@
+C:\workspace\UdemyC#\Capitulo 9 - Enumerações e Comparações\CourseStringBuilder\CourseStringBuilder\obj\Debug\net5.0\CourseStringBuilder.csproj.AssemblyReference.cache
+C:\workspace\UdemyC#\Capitulo 9 - Enumerações e Comparações\CourseStringBuilder\CourseStringBuilder\obj\Debug\net5.0\CourseStringBuilder.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\UdemyC#\Capitulo 9 - Enumerações e Comparações\CourseStringBuilder\CourseStringBuilder\obj\Debug\net5.0\CourseStringBuilder.AssemblyInfoInputs.cache
+C:\workspace\UdemyC#\Capitulo 9 - Enumerações e Comparações\CourseStringBuilder\CourseStringBuilder\obj\Debug\net5.0\CourseStringBuilder.AssemblyInfo.cs
+C:\workspace\UdemyC#\Capitulo 9 - Enumerações e Comparações\CourseStringBuilder\CourseStringBuilder\obj\Debug\net5.0\CourseStringBuilder.csproj.CoreCompileInputs.cache
